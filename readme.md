@@ -2,13 +2,13 @@
 
 This project is aimed at practicing various Vue.js features including:
 
-- Content directives
-- Attribute binding
-- Class binding
-- Conditional rendering
-- List rendering
-- Computed properties and methods
-- Event handling
+- [Content directives](02-content-directives)
+- [Attribute binding](03-attribute-binding)
+- [Class binding](04-class-bindings)
+- [Conditional rendering](05-conditional-rendering)
+- [List rendering](06-list-rendering)
+- [Computed properties and methods](07-computed-and-methods)
+- [Event handling](08-event-handling)
 
 ## Features Covered
 

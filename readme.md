@@ -2,13 +2,13 @@
 
 This project is aimed at practicing various Vue.js features including:
 
-- [Content directives](02-content-directives)
-- [Attribute binding](03-attribute-binding)
-- [Class binding](04-class-bindings)
-- [Conditional rendering](05-conditional-rendering)
-- [List rendering](06-list-rendering)
-- [Computed properties and methods](07-computed-and-methods)
-- [Event handling](08-event-handling)
+<span style="color: #fff7d3;">[Content directives](02-content-directives)</span>
+<span style="color: #fff7d3;">[Attribute binding](03-attribute-binding)</span>
+<span style="color: #fff7d3;">[Class binding](04-class-bindings)</span>
+<span style="color: #fff7d3;">[Conditional rendering](05-conditional-rendering)</span>
+<span style="color: #fff7d3;">[List rendering](06-list-rendering)</span>
+<span style="color: #fff7d3;">[Computed properties and methods](07-computed-and-methods)</span>
+<span style="color: #fff7d3;">[Event handling](08-event-handling)</span>
 
 ## Features Covered
 
